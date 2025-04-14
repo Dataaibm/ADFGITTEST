@@ -1,0 +1,9 @@
+{
+	"name": "bmtestadf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9490f634-d9b9-42c9-b84d-446cfc836de0",
+		"tenantId": "43b2ab88-f668-409f-ba76-8db3e53453ae"
+	}
+}
