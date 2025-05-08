@@ -98,7 +98,7 @@
 							],
 							"outputs": [
 								{
-									"referenceName": "ParquetDataset",
+									"referenceName": "ParquetDatasetBMTest",
 									"type": "DatasetReference",
 									"parameters": {
 										"FDN": {

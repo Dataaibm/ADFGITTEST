@@ -1,5 +1,5 @@
 {
-	"name": "ParquetDatasetBMTest",
+	"name": "ParquetArchTest",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "AzureDataLakeStorage1",
@@ -26,11 +26,10 @@
 					"value": "@dataset().FDN",
 					"type": "Expression"
 				},
-				"fileSystem": "bmtest"
+				"fileSystem": "archtest"
 			},
 			"compressionCodec": "snappy"
 		},
 		"schema": []
-	},
-	"type": "Microsoft.DataFactory/factories/datasets"
+	}
 }

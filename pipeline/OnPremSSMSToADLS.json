@@ -51,11 +51,11 @@
 				],
 				"outputs": [
 					{
-						"referenceName": "ParquetDataset",
+						"referenceName": "ParquetArchTest",
 						"type": "DatasetReference",
 						"parameters": {
 							"FDN": {
-								"value": "archtest",
+								"value": "Sales Header",
 								"type": "Expression"
 							},
 							"FN": {
@@ -122,11 +122,11 @@
 				],
 				"outputs": [
 					{
-						"referenceName": "ParquetDataset",
+						"referenceName": "ParquetArchTest",
 						"type": "DatasetReference",
 						"parameters": {
 							"FDN": {
-								"value": "archtest",
+								"value": "Sales Line",
 								"type": "Expression"
 							},
 							"FN": {
